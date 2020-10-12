@@ -1,0 +1,31 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MyShop.DataAccess.InMemory/Class1.cs" Line="5" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyShop" expanded="True">
+            <Node name="MyShop.Core" selected="True" />
+            <Node name="MyShop.DataAccess.SQL" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MyShop.WebUI/MyShop.WebUI.csproj</String>
+    <String>MyShop.WebUI.Tests/MyShop.WebUI.Tests.csproj</String>
+    <String>MyShop.Services/MyShop.Services.csproj</String>
+    <String>MyShop.Core/MyShop.Core.csproj</String>
+    <String>MyShop.DataAccess.InMemory/MyShop.DataAccess.InMemory.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.MyShop.DataAccess.SQL FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

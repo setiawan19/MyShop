@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Charly/Projects/MyShop/MyShop.Core/MyShop.Core.csproj": {}
+    "/Users/Training_MVC/MyShop/MyShop.Core/MyShop.Core.csproj": {}
   },
   "projects": {
-    "/Users/Charly/Projects/MyShop/MyShop.Core/MyShop.Core.csproj": {
+    "/Users/Training_MVC/MyShop/MyShop.Core/MyShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Charly/Projects/MyShop/MyShop.Core/MyShop.Core.csproj",
+        "projectUniqueName": "/Users/Training_MVC/MyShop/MyShop.Core/MyShop.Core.csproj",
         "projectName": "MyShop.Core",
-        "projectPath": "/Users/Charly/Projects/MyShop/MyShop.Core/MyShop.Core.csproj",
+        "projectPath": "/Users/Training_MVC/MyShop/MyShop.Core/MyShop.Core.csproj",
         "packagesPath": "/Users/Charly/.nuget/packages/",
-        "outputPath": "/Users/Charly/Projects/MyShop/MyShop.Core/obj/",
+        "outputPath": "/Users/Training_MVC/MyShop/MyShop.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Charly/.nuget/NuGet/NuGet.Config"
+          "/Users/Charly/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -35,6 +35,20 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc.2.20475.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

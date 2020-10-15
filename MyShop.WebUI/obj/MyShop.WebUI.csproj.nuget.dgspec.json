@@ -14,7 +14,7 @@
         "outputPath": "/Users/Charly/Projects/MyShop/MyShop.WebUI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Charly/.config/NuGet/NuGet.Config"
+          "/Users/Charly/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -54,7 +54,7 @@
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[3.1.9, )"
             }
           },
           "imports": [

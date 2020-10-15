@@ -14,7 +14,7 @@
         "outputPath": "/Users/Charly/Projects/MyShop/MyShop.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Charly/.config/NuGet/NuGet.Config"
+          "/Users/Charly/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"

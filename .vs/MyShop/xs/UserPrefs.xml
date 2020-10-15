@@ -1,14 +1,13 @@
 ﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyShop.DataAccess.InMemory/Class1.cs">
     <Files>
-      <File FileName="MyShop.DataAccess.InMemory/Class1.cs" Line="5" Column="24" />
+      <File FileName="MyShop.DataAccess.InMemory/Class1.cs" Line="5" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyShop" expanded="True">
             <Node name="MyShop.Core" selected="True" />
-            <Node name="MyShop.DataAccess.SQL" expanded="True" />
           </Node>
         </State>
       </Pad>
